@@ -1,7 +1,10 @@
 ### Interests: 
 Drosophila research | Bioinformatics | Computational Biology
 
-##Affiliated research
+**Affiliated research**
+UoEssex:  
+1. DAXX and immunity using Drosophila melanogaster
+2. Compuatational analysis of Fowlpox virus (FP9)
 
 UCL Health Data Science 2024
 

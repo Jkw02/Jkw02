@@ -1,4 +1,8 @@
-### Hi there 👋
+### 
+
+Drosophila research | Bioinformatics | Computational Biology
+UCL Health Data Science 2024
+
 
 <!--
 **Jkw02/Jkw02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

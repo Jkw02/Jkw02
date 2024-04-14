@@ -1,6 +1,7 @@
-### 
-
+### Interests: 
 Drosophila research | Bioinformatics | Computational Biology
+
+##Affiliated research
 
 UCL Health Data Science 2024
 

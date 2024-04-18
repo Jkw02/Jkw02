@@ -8,6 +8,7 @@ Drosophila research | Bioinformatics | Computational Biology
 UoEssex:  
 1. DAXX and immunity using Drosophila melanogaster
 2. Compuatational analysis of Fowlpox virus (FP9)
+3. LITERATURE REVIEW - Hypothyroidism and Dementia
 
 UoOxford
 

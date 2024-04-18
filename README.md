@@ -4,6 +4,7 @@ Drosophila research | Bioinformatics | Computational Biology
 🌱 R, Python, Jupyter and SQL
 
 **Affiliated research**
+
 UoEssex:  
 1. DAXX and immunity using Drosophila melanogaster
 2. Compuatational analysis of Fowlpox virus (FP9)

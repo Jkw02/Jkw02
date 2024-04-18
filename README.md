@@ -14,6 +14,7 @@ UoOxford
 
 
 University of Essex 2021/24- transcriptome analysis / gene pathway networks
+
 UCL Health Data Science 2024/25 - Computational Genomics
 
 

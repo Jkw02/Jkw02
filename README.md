@@ -13,7 +13,8 @@ UoOxford
 1. Modelling early-stage Alzheimer’s disease biology in fruit flies
 
 
-UCL Health Data Science 2024
+University of Essex 2021/24- transcriptome analysis / gene pathway networks
+UCL Health Data Science 2024/25 - Computational Genomics
 
 
 <!--

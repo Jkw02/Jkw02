@@ -14,7 +14,8 @@ UoOxford
 Awaiting: 1. Modelling early-stage Alzheimer’s disease biology in fruit flies
 
 
-Insitutions
+Insitutions & Pathways
+
 
 University of Essex, Biomedical Science 2021/24- transcriptome analysis / gene pathway networks
 

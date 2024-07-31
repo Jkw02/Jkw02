@@ -11,8 +11,7 @@ UoEssex:
 3. LITERATURE REVIEW - Hypothyroidism and Dementia
 
 UoOxford
-
-Awaiting: 1. Modelling early-stage Alzheimer’s disease biology in fruit flies
+1. Modelling early-stage Alzheimer’s disease biology in fruit flies
 
 
 **Insitutions & Pathways**

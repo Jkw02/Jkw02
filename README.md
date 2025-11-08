@@ -1,7 +1,3 @@
 ### Interests: 
-Drosophila research | Bioinformatics | Computational Biology
-
+Machine Learning in Healthcare | Bioinformatics | Bioimaging
 🌱 R, Python, Jupyter and SQL
-
-
-
